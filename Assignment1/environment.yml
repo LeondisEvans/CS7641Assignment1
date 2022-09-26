@@ -1,0 +1,10 @@
+name: cs7641
+channels:
+- conda-forge
+- defaults
+dependencies:
+- python>=3.7
+- scikit-learn
+- pandas
+- pip:
+  - matplotlib
